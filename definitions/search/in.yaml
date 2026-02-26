@@ -14,7 +14,7 @@ arguments:
   - name: value
     type:
       - any
-      - array       # of any
+      - array # of any
   - name: score
     optional: true
     type:

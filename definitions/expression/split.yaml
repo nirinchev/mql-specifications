@@ -3,7 +3,7 @@ name: $split
 link: https://www.mongodb.com/docs/manual/reference/operator/aggregation/split/
 minVersion: 3.4.0
 type:
-  - resolvesToArray   # of string
+  - resolvesToArray # of string
 encode: array
 description: |
   Splits a string into substrings based on a delimiter. Returns an array of substrings. If the delimiter is not found within the string, returns an array containing the original string.

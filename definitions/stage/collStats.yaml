@@ -18,11 +18,11 @@ arguments:
     optional: true
   - name: count
     type:
-      - object       # empty object
+      - object # empty object
     optional: true
   - name: queryExecStats
     type:
-      - object       # empty object
+      - object # empty object
     optional: true
 tests:
   - name: latencyStats Document

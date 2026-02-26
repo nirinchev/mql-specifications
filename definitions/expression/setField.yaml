@@ -34,8 +34,8 @@ tests:
             field: price.usd
             input: $$ROOT
             value: $price
-                # Example uses the short form, the builder always generates the verbose form
-                # $unset: 'price'
+      # Example uses the short form, the builder always generates the verbose form
+      # $unset: 'price'
       - $unset:
           - price
     schema:
@@ -61,8 +61,8 @@ tests:
               $literal: $price
             input: $$ROOT
             value: $price
-                # Example uses the short form, the builder always generates the verbose form
-                # $unset: 'price'
+      # Example uses the short form, the builder always generates the verbose form
+      # $unset: 'price'
       - $unset:
           - price
     schema:

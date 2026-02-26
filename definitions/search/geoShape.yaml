@@ -14,7 +14,7 @@ arguments:
       - searchPath
   - name: relation
     type:
-      - string       # contains | disjoint | intersects | within
+      - string # contains | disjoint | intersects | within
   - name: geometry
     type:
       - geometry

@@ -20,7 +20,7 @@ arguments:
   - name: tokenOrder
     optional: true
     type:
-      - string       # any|sequential
+      - string # any|sequential
   - name: fuzzy
     optional: true
     type:

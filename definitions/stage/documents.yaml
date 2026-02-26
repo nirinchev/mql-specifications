@@ -10,7 +10,7 @@ description: |
 arguments:
   - name: documents
     type:
-      - resolvesToArray       # of object
+      - resolvesToArray # of object
     description: |
       $documents accepts any valid expression that resolves to an array of objects. This includes:
       - system variables, such as $$NOW or $$SEARCH_META

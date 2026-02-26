@@ -14,7 +14,7 @@ arguments:
   - name: query
     type:
       - string
-      - array       # of string
+      - array # of string
   - name: slop
     optional: true
     type:

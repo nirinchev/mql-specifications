@@ -22,7 +22,7 @@ arguments:
   - name: matchCriteria
     optional: true
     type:
-      - string       # "any" | "all"
+      - string # "any" | "all"
   - name: synonyms
     optional: true
     type:

@@ -13,7 +13,7 @@ arguments:
   - name: like
     type:
       - object
-      - array       # of object
+      - array # of object
   - name: score
     optional: true
     type:

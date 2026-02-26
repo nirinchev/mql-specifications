@@ -14,22 +14,22 @@ arguments:
     optional: true
     type:
       - searchOperator
-      - array       # of searchOperator
+      - array # of searchOperator
   - name: mustNot
     optional: true
     type:
       - searchOperator
-      - array       # of searchOperator
+      - array # of searchOperator
   - name: should
     optional: true
     type:
       - searchOperator
-      - array       # of searchOperator
+      - array # of searchOperator
   - name: filter
     optional: true
     type:
       - searchOperator
-      - array       # of searchOperator
+      - array # of searchOperator
   - name: minimumShouldMatch
     optional: true
     type:

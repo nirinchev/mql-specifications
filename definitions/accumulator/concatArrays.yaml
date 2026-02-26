@@ -12,7 +12,7 @@ description: |
 arguments:
   - name: array
     type:
-      - resolvesToArray     # of arrays
+      - resolvesToArray # of arrays
     variadic: array
     description: |
       An array of expressions that resolve to an array. 

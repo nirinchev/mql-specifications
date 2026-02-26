@@ -18,7 +18,7 @@ arguments:
   - name: 'on'
     type:
       - string
-      - array       # of string
+      - array # of string
     optional: true
     description: |
       Field or fields that act as a unique identifier for a document. The identifier determines if a results document matches an existing document in the output collection.
